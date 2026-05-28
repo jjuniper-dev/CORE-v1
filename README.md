@@ -1,6 +1,6 @@
 # CORE v1.0
 
-GEAkr provides a lightweight, project-scoped retrieval pattern for chatbot-assisted architecture and knowledge work.
+CORE provides a lightweight, project-scoped retrieval pattern for chatbot-assisted architecture and knowledge work.
 
 At its simplest, GEAkr is a logical folder structure plus instructions. The structure helps define what information is in scope for a project, how source references are registered, and how a chatbot should treat the folder when generating summaries, comparisons, diagrams, briefings, or other project artifacts.
 
