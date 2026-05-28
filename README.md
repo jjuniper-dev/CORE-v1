@@ -1,4 +1,4 @@
-# GEAkr v1.0
+# CORE v1.0
 
 GEAkr provides a lightweight, project-scoped retrieval pattern for chatbot-assisted architecture and knowledge work.
 
